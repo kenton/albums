@@ -11,6 +11,7 @@ const Header = (props) => {
   );
 };
 
+
 const styles = {
   viewStyle: {
     backgroundColor: '#F8F8F8',
