@@ -1,2 +1,2 @@
 # Albums
-## A simple react.js app for tinkering with react
+## A simple app for tinkering with react-native
